@@ -1,2 +1,1 @@
-# hellow-world
-how it works
+i almost gave up on git
